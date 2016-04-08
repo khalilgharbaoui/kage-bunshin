@@ -21,7 +21,7 @@ var kagebunshin = function(){
     // Using innerHTML is faster than DOM appendChild
     for( var i = Math.floor(Math.random() * 5) + 3; i > intLevels; i-- ){
 
-        for( var n = Math.floor(Math.random() * 7) + 1; n < i + Math.floor(Math.random() * 7) + 1; n++ ){
+        for( var n = Math.floor(Math.random() * 9) + 1; n < i + Math.floor(Math.random() * 7) + 1; n++ ){
           var number = Math.floor(Math.random() * 10) + 5;
             strBlocksHTML += "<div class='naruto-clone' style='margin-left:"+number+"px; margin-right:"+number+"px;'><img src='images/naruto.gif' /></div>";
         }
