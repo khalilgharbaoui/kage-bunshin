@@ -9,7 +9,7 @@ ion.sound({
     path: "sounds/",
     preload: true,
     multiplay: false,
-    volume: 0.9
+    volume: 0.5
 });
 var objContainer = document.getElementById( "clone-container" );
   var intLevels = 0;
