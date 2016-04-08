@@ -1,0 +1,21 @@
+{
+  "name": "Kage Bunshin",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "Khalil Gharbaoui <kaygeee@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize.css": "~3.0.3",
+    "console-polyfill": "~0.2.2"
+  }
+}

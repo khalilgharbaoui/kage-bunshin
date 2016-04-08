@@ -1,0 +1,22 @@
+{
+  "name": "kage-bunshin",
+  "version": "0.0.1",
+  "description": "Kage Bunshin is an experiment in JavaScript, Basicly on click make more shadow clones of naruto!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/khalilgharbaoui/kage-bunshin.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.2",
+    "grunt-contrib-connect": "^1.0.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
